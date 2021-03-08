@@ -1,8 +1,9 @@
-package simpleFactory;
+package factoryMethod;
+
 
 /**
  * @author songhaibo
- * @description 简单工厂
+ * @description 工厂方法模式
  * @date 2021-03-04 7:25 下午
  */
 public class Byd implements Car {

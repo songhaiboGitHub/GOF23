@@ -1,8 +1,8 @@
-package simpleFactory;
+package factoryMethod;
 
 /**
  * @author songhaibo
- * @description 简单工厂
+ * @description 工厂方法模式
  * @date 2021-03-04 7:24 下午
  */
 public interface Car {

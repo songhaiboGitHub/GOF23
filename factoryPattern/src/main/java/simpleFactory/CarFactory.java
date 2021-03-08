@@ -2,7 +2,7 @@ package simpleFactory;
 
 /**
  * @author songhaibo
- * @description 工厂类
+ * @description 简单工厂工厂类
  * @date 2021-03-04 7:32 下午
  */
 public class CarFactory {
